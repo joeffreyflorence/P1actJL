@@ -40,7 +40,7 @@ const Work = () => {
         </Carousel.Item>
         <Carousel.Item>
           <div style={{maxHeight:300}}>
-            <Image src="/P2.png" className="w-100 h-100 object-cover"/>
+            <Image src="/portfolio.png" className="w-100 h-100 object-cover"/>
            </div>
           <Carousel.Caption>
             <h3>Portfolio</h3>  

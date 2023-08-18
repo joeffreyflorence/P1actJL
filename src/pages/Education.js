@@ -12,7 +12,7 @@ const Education = () => {
       <Container className='p-5'>
       <Accordion defaultActiveKey="0">
       <Accordion.Item eventKey="0">
-        <Accordion.Header>Bolosan Elementary School |  S.Y.2008-2015</Accordion.Header>
+        <Accordion.Header>westcentral Elementary School 1 |  S.Y.2008-2015</Accordion.Header>
         <Accordion.Body>
         Achievements
         <br />
@@ -20,9 +20,9 @@ const Education = () => {
         <br />
         •With honor grade 1-6
         <br />
-        •Athlete Student of Badminton,Volleyball, Table Tennis
+        •Athlete Student of basketball
         <br />
-        •R1AA Badminton 2014-2015 
+         
 
         
 
@@ -33,9 +33,9 @@ const Education = () => {
         <Accordion.Body>
         Achievements
         <br />
-        •With honor gr 7-12
+        •With perfect attendance
         <br />
-        •Star Volleyball Player
+        •Basketball  Player
 
 
          
@@ -46,7 +46,7 @@ const Education = () => {
         <Accordion.Body>
         Achievements
         <br />
-        •Winner CITE FEST Volleyball
+        •2nd place at basketball cite fest
 
 
 

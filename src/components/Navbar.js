@@ -7,7 +7,7 @@ const NavbarComponent = ()=> {
   return(
     <Navbar expand="lg" data-bs-theme="dark" className='px-5 py-4'>
       <Container>
-        <Navbar.Brand href="#home" className='fw-semibold'>Regine Capitle</Navbar.Brand>
+        <Navbar.Brand href="#home" className='fw-semibold'>JOEFFREY FLORENCE LAMBINO</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
       </Container>
       <Navbar.Collapse id="basic-navbar-nav">

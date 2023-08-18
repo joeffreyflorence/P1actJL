@@ -10,14 +10,14 @@ const Home = () => {
     <div className='d-flex justify-content-center align-items-center' >
       <Row className='hero'>
         <Col className='d-flex justify-content-center align-items-center'>
-          <Image src='/regine.jpg' style={{minWidth:250}} fluid/>
+          <Image src='/JEPS1.jpg' className='' width={350} roundedCircle/>
         </Col>
         <Col>
-          <h1 className='display-1 fw-bold'>Regine Capitle</h1>
-          <h3 className='display-5 fw-semibold'>3rd yr Web Developer</h3>
+          <h1 className='display-1 fw-bold'>JOEFFREY FLORENCE LAMBINO</h1>
+          <h3 className='display-5 fw-semibold'>BSIT Web Developer</h3>
           <hr />
           <p>
-          “Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.” – Thomas Edison
+          Life is short do what you love so that you don`t have regret.
           </p>
           <div className='d-flex align-items-center gap-2'>
             <Link to='/work'>
